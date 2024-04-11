@@ -1,0 +1,30 @@
+_repo: Primuloita-b-Poimittu-pojille-ja-tytoille_73306
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liinamaa-Pärssinen, Hilja
+    aliases:
+    - Liinamaa, Hilja
+    - Liinamaa-Parssinen, Hilja
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '33713'
+    url: http://www.gutenberg.org/2009/agents/33713
+description: ''
+gutenberg_issued: '2024-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73306'
+language: fi
+pgterms:marc905: 20230507091743prssinen
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aTampere :$bWesanderin Kirjakauppa, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Primuloita : $b Poimittu pojille ja tytöille'
+url: http://www.gutenberg.org/ebooks/73306
